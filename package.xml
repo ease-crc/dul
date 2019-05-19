@@ -1,0 +1,12 @@
+<package>
+  <name>dul</name>
+  <version>1.0.0</version>
+  <description>The DOLCE+DnS Ultralite ontology.</description>
+  <maintainer email="danielb@cs.uni-bremen.de">Daniel Beßler</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
